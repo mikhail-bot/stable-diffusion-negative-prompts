@@ -4,7 +4,8 @@ A list of solid negative prompts for stable diffusion
 Inspired by Thaevil1 in the Stable Diffusion Discord
 
 
-
+- [Negative Prompts](#stable-diffusion-negative-prompts)
+    - [Photo Realistic](#photo-realistic-output)
 
 ## Photo Realistic Output
 *Tools for better photo realistic prompts*
